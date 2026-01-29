@@ -8,13 +8,13 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io',
+  url: 'https://lehoaibao130497.github.io',
   // Set the /<baseUrl>/ to your site's section folder
   baseUrl: '/learn-salesforce/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-username', // Usually your GitHub org/user name.
+  organizationName: 'lehoaibao130497', // Usually your GitHub org/user name.
   projectName: 'learn-salesforce', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -36,13 +36,13 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
-          editUrl: 'https://github.com/your-username/learn-salesforce/tree/main/website/docs/',
+          editUrl: 'https://github.com/lehoaibao130497/learn-salesforce/tree/main/website/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/your-username/learn-salesforce/tree/main/website/blog/',
+            'https://github.com/lehoaibao130497/learn-salesforce/tree/main/website/blog/',
         },
         theme: {
           customCss: ['./src/css/custom.css'],
@@ -71,7 +71,7 @@ const config: Config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/your-username/learn-salesforce',
+            href: 'https://github.com/lehoaibao130497/learn-salesforce',
             label: 'GitHub',
             position: 'right',
           },
@@ -83,9 +83,9 @@ const config: Config = {
           {
             title: 'Docs',
             items: [
-              {label: 'Getting Started', to: '/docs/getting-started'},
-              {label: 'Quick Reference', to: '/docs/quick-reference'},
-              {label: 'Resources', to: '/docs/resources'},
+              {label: 'Getting Started', to: '/docs/GETTING_STARTED'},
+              {label: 'Quick Reference', to: '/docs/QUICK_REFERENCE'},
+              {label: 'Resources', to: '/docs/RESOURCES'},
             ],
           },
           {
@@ -114,7 +114,7 @@ const config: Config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-username/learn-salesforce',
+                href: 'https://github.com/lehoaibao130497/learn-salesforce',
               },
             ],
           },

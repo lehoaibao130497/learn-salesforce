@@ -17,12 +17,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started">
+            to="/docs/GETTING_STARTED">
             Get Started Now 🚀
           </Link>
           <Link
             className="button button--outline button--lg"
-            to="/docs/quick-reference">
+            to="/docs/QUICK_REFERENCE">
             Quick Reference 📚
           </Link>
         </div>
@@ -181,7 +181,7 @@ export default function Home() {
               <div className="alert alert--success" role="alert">
                 <h3>💪 Ready to Start?</h3>
                 <p>Begin your 4-week journey to becoming a certified Salesforce Platform Developer I</p>
-                <Link className="button button--primary button--lg margin-top--sm" to="/docs/getting-started">
+                <Link className="button button--primary button--lg margin-top--sm" to="/docs/GETTING_STARTED">
                   Start Learning Now 🚀
                 </Link>
               </div>
