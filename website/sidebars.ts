@@ -34,7 +34,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '📅 Week 1: Admin & Flow',
       items: [
-        'week1',
+        'week1/README',
         'week1/objects-app',
         'week1/security',
         'week1/flow',
@@ -45,7 +45,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '💻 Week 2: Apex & SOQL',
       items: [
-        'week2',
+        'week2/README',
         'week2/apex-basics',
         'week2/triggers',
         'week2/soql-dml',
@@ -56,7 +56,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '⚡ Week 3: LWC',
       items: [
-        'week3',
+        'week3/README',
       ],
     },
     {

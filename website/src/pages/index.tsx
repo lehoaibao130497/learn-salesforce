@@ -61,7 +61,7 @@ export default function Home() {
                     <li>Flow Builder</li>
                     <li>Project Management App</li>
                   </ul>
-                  <Link className="button button--primary" to="/docs/week1/README">
+                  <Link className="button button--primary" to="/docs/week1">
                     Start Week 1
                   </Link>
                 </div>
@@ -81,7 +81,7 @@ export default function Home() {
                     <li>SOQL Queries</li>
                     <li>Test Coverage</li>
                   </ul>
-                  <Link className="button button--primary" to="/docs/week2/README">
+                  <Link className="button button--primary" to="/docs/week2">
                     Start Week 2
                   </Link>
                 </div>
@@ -101,7 +101,7 @@ export default function Home() {
                     <li>Event Handling</li>
                     <li>Revenue Dashboard</li>
                   </ul>
-                  <Link className="button button--primary" to="/docs/week3/README">
+                  <Link className="button button--primary" to="/docs/week3">
                     Start Week 3
                   </Link>
                 </div>
@@ -123,7 +123,7 @@ export default function Home() {
                     <li>Governor Limits</li>
                     <li>Prompt Builder</li>
                   </ul>
-                  <Link className="button button--primary button--block" to="/docs/week4/README">
+                  <Link className="button button--primary button--block" to="/docs/week4">
                     Start Week 4
                   </Link>
                 </div>
