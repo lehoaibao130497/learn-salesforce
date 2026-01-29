@@ -455,4 +455,4 @@ Congratulations on completing Week 2! You've learned:
 
 ---
 
-**Tiếp tục:** [Week 3: LWC](/learn-salesforce/docs/week3/README)
+**Tiếp tục:** [Week 3: LWC](/docs/week3/)

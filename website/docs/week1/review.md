@@ -370,4 +370,4 @@ Before starting Week 2:
 
 **Chúc mừng! Bạn đã hoàn thành Week 1!** 🎉
 
-**Tiếp tục:** [Week 2: Apex & SOQL](/docs/week2/README)
+**Tiếp tục:** [Week 2: Apex & SOQL](/docs/week2/)
