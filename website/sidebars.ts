@@ -68,6 +68,11 @@ const sidebars: SidebarsConfig = {
       label: '🎯 Week 4: Exam Prep',
       items: [
         'week4/README',
+        'week4/ai-integration',
+        'week4/exam-notes/detailed-exam-guide',
+        'week4/exam-notes/governor-limits-deep-dive',
+        'week4/practice-questions/strategies',
+        'week4/ai-prompts/study-prompts',
       ],
     },
   ],
