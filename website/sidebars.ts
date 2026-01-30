@@ -57,6 +57,10 @@ const sidebars: SidebarsConfig = {
       label: '⚡ Week 3: LWC',
       items: [
         'week3/README',
+        'week3/lwc-basics',
+        'week3/events-communication',
+        'week3/apex-integration',
+        'week3/testing-review',
       ],
     },
     {
